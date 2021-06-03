@@ -1,0 +1,52 @@
+{
+    "colonel-insurance":{
+        "policyHolder":{
+            "name": {
+                "firstName": "",
+                "middleName": "",
+                "lastName": ""
+            },
+            "address":{
+                "number":"",
+                "street": "",
+                "suffix": "",
+                "city": "",
+                "state": "",
+                "zip": ""
+            },
+            "email": "",
+            "drivingLicense":""
+        },
+        "operators":[
+            {
+              "dateOfBirth":"",
+              "gender": ""
+            }
+        ]
+    },
+    "ranchers-insurance":{
+        "policyHolder":{
+            "name": {
+                "firstName": "",
+                "middleName": "",
+                "lastName": ""
+            },
+            "address":{
+                "number":"",
+                "street": "",
+                "suffix": "",
+                "city": "",
+                "state": "",
+                "zip": ""
+            },
+            "email": "",
+            "drivingLicense":""
+        },
+        "operators":[
+            {
+              "dateOfBirth":"",
+              "gender": ""
+            }
+        ]
+    }
+}
