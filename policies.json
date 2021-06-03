@@ -1,0 +1,64 @@
+[
+    {
+      "policyId": "9afe73e5-77c9-4677-ba5f-1b9e807396a0",
+      "issuer": "colonel-insurance",
+      "issueDate": "2021-01-21",
+      "renewalDate": "2021-07-22",
+      "policyTermMonths": 6,
+      "premiumCents": 49234,
+      "policyHolder": {
+        "name": {
+          "firstName": "Caroline",
+          "middleName": "",
+          "lastName": "White"
+        },
+        "address": {
+          "number": "292",
+          "street": "Hillside Way Apt 398",
+          "suffix": "S",
+          "city": "Pierce",
+          "state": "IA",
+          "zip": "30328"
+        },
+        "email": "Caroline.White897@me.com"
+      },
+      "operators": [
+        {
+          "id":"123456",
+          "isPrimary": true,
+          "name": {
+            "firstName": "Caroline",
+            "middleName": "",
+            "lastName": "White"
+          },
+          "birthdayRange": {
+            "start": "1988-05-22",
+            "end": "1989-05-21"
+          },
+          "gender": "female",
+          "driversLicenseState": "IA",
+          "driversLicenseStatus": "ValidUSLicense",
+          "driversLicenseNumber": "XXXXX1633",
+          "relationship": "Named Insured"
+        },
+        {
+          "id":"789456",
+          "isPrimary": true,
+          "name": {
+            "firstName": "Caroline",
+            "middleName": "",
+            "lastName": "White"
+          },
+          "birthdayRange": {
+            "start": "1988-05-22",
+            "end": "1989-05-21"
+          },
+          "gender": "",
+          "driversLicenseState": "IA",
+          "driversLicenseStatus": "ValidUSLicense",
+          "driversLicenseNumber": "XXXXX1633",
+          "relationship": "Named Insured"
+        }
+      ]
+    }
+  ]
